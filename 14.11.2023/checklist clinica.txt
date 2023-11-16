@@ -1,0 +1,7 @@
+Criar modelo conceitual (BrModelo) - ok
+Criar modelo lógico (BrModelo) - ok
+Criar modelo físico (BrModelo) - ok
+Implementar código SQL (SQLServer). Não esqueça de colocar IDENTITY (1,1) e NOTNULL quando necessário
+Gere o MER bbi SSMS
+
+Crie a Classe Paciente na Camada Entities.
